@@ -28,15 +28,17 @@ A machine learning application combining a training/inference pipeline with a ba
 🔗 https://github.com/ai-dg/weight-your-wage
 
 
-### 🌐 ft_transcendence
+### 🏓 ft_transcendence
 
-Real-time multiplayer web application developed at 42 Paris.
+Online multiplayer Pong game developed at 42 Paris.
+
+A full-stack application featuring real-time gameplay, user authentication and a service-oriented backend architecture.
 
 **Focus:**
 - Backend architecture
-- Authentication
-- WebSockets
-- Microservices
+- WebSocket communication
+- Real-time game synchronization
+- Authentication and user management
 
 🔗 https://github.com/kaierhyeh/ft_transcendence
 
