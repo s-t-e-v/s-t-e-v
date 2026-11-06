@@ -13,6 +13,18 @@ I enjoy building systems that combine reliable software engineering with emergin
 
 ## 🚀 Featured Projects
 
+### 🚲 Vélib' Data Lake
+
+Python data pipeline that collects Vélib' station availability, preserves raw API snapshots, and loads validated observations into PostgreSQL.
+
+**Focus:**
+- Python ingestion and data quality checks
+- Azure Blob Storage and Bicep infrastructure
+- Idempotent loading and replay in PostgreSQL
+- Grafana dashboards for station availability and pipeline health
+
+🔗 https://github.com/s-t-e-v/velib-datalake
+
 ### 🧠 Weight Your Wage
 
 AI salary prediction platform developed within the 42 AI Lab.
